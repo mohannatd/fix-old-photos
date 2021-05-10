@@ -2,4 +2,4 @@
 
 fix corrupted photos with **`OpenCV`**
 
-![](fix.gif)
+![fix.gif](fix.gif)
